@@ -1,2 +1,5 @@
+*.hi
 *.o
+
 bloom/bloom
+free-monad/Main
