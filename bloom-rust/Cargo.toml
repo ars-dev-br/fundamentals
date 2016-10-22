@@ -1,0 +1,7 @@
+[package]
+name = "bloom-rust"
+version = "0.1.0"
+authors = ["Andre Ramaciotti <andre@ramaciotti.com>"]
+
+[dependencies]
+bit-vec = "0.4.3"
